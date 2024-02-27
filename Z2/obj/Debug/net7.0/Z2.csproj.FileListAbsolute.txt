@@ -1,0 +1,14 @@
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.AssemblyInfoInputs.cache
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.AssemblyInfo.cs
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.csproj.CoreCompileInputs.cache
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\bin\Debug\net7.0\Z2.exe
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\bin\Debug\net7.0\Z2.deps.json
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\bin\Debug\net7.0\Z2.runtimeconfig.json
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\bin\Debug\net7.0\Z2.dll
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\bin\Debug\net7.0\Z2.pdb
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.dll
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\refint\Z2.dll
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.pdb
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\Z2.genruntimeconfig.cache
+C:\Users\лрлор\Desktop\GB\CSHARP DZ\Sem2DZ\Z2\obj\Debug\net7.0\ref\Z2.dll
